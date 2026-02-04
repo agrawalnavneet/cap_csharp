@@ -6,6 +6,11 @@ class Program
     {
         
         // StudentSorting.Custom.custom();
-        Cust.cust();
+        // Cust.cust();
+
+    // Alpha.alpha();
+
+    // Inventory.inventory();
+    Dict.dict();
     }
 }
