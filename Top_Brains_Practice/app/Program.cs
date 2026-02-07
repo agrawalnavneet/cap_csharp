@@ -21,6 +21,22 @@ class Program
     //     Large1.large1();
 
     // Conv.conv();
-    Height.height();
+    // Height.height();
+
+
+    // Ecom.ecom();
+    // Zero.zero();
+
+    // Mid.mid();
+
+    // Time.time();
+
+
+    // Positive.positive();
+
+    // Multi.multi();
+    // Parsee.parsee();
+
+    BankTransaction.bank();
     }
 }
