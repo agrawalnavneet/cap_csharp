@@ -37,6 +37,24 @@ class Program
     // Multi.multi();
     // Parsee.parsee();
 
-    BankTransaction.bank();
+    // BankTransaction.bank();
+
+
+    // Gcd.gcd();
+// Objec.objec();
+
+// Poly.poly();
+
+// Stri.stri();
+// Sorted.sorted();
+
+// Nul.nul();
+
+// Extension.extension();
+// Arith.arith();
+Format.format();
+
+
+
     }
 }
